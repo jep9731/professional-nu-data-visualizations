@@ -84,9 +84,9 @@ Merges and harmonizes internal and external clinical amyloid PET read data.
 
 **Data Files Required:**
 
-- `AlzheimersDiseaseRes-AmyloidPETmetricsADC_DATA_LABELS_2024-10-28_1324.csv`
-- `2024-12-09T17_58_12.809Z_clinical_core_export.csv`
-- `SCAN Amyloid PET (MRI-free) GAAIN analysis data.csv`
+- `ImagingCoreDatabase-Stub_DATA_LABELS_2025-11-25_0830.csv`
+- `ImagingCoreDatabase-ICPETMetrics_DATA_LABELS_2025-11-25_0920.csv`
+- `v_ucberkeley_amyloid_mrifree_gaain.csv`
 
 **R Packages:** `readr`, `dplyr`, `ggplot2`, `stringr`
 
