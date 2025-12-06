@@ -95,6 +95,8 @@ Merges and harmonizes internal and external clinical amyloid PET read data.
 2. Place all data files in data/
 3. Run top to bottom
 
+---
+
 ## 📫 Contact
 
 For questions or collaboration inquiries, please contact [Joshua Pasaye](https://github.com/jep9731).
