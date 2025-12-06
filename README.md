@@ -29,28 +29,6 @@ jupyter notebook ADC_IC_MRIQC_Y3.ipynb
 
 ---
 
-### 🧠 Clinical PET Data
-Summarizes PET scan reads using a master clinical diagnosis sheet.
-
-**Script Description:**
-
-|       File     |   Description  |
-|:--------------:|:--------------:|
-|`ADC_IC_PET_Reads.ipynb` | Summarizes PET clinical read data |
-
-**Date File Required:**
-- `imaging_diagnosis_mastersheet_2024-03-05.xlsx`
-
-**Tools Used:** `pandas`, `seaborn`, `openpyxl`
-
-**Run:**
-```bash
-pip install pandas seaborn matplotlib openpyxl
-jupyter notebook ADC_IC_PET_Reads.ipynb
-```
-
-----
-
 ### 📈 Longitudinal Imaging Data
 Tracks scan frequency and types across time for longitudinal participants.
 
@@ -100,5 +78,3 @@ Merges and harmonizes internal and external clinical amyloid PET read data.
 ## 📫 Contact
 
 For questions or collaboration inquiries, please contact [Joshua Pasaye](https://github.com/jep9731).
-
----
