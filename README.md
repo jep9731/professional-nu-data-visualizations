@@ -45,7 +45,7 @@ Tracks scan frequency and types across time for longitudinal participants.
 
 **Run:**
 1. Load script
-2. Ensure Excel file is in data/
+2. Ensure Excel file is alongside script
 3. Execute script
 
 ---
@@ -70,7 +70,7 @@ Merges and harmonizes internal and external clinical amyloid PET read data.
 
 **Run in RStudio:**
 1. Load script
-2. Place all data files in data/
+2. Ensure Excel file is alongside script
 3. Run top to bottom
 
 ---
